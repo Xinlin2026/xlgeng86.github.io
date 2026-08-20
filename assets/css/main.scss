@@ -37,3 +37,16 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+// 让markdown表格字体和页面正文完全保持一致
+.page__content {
+  table {
+    font-family: inherit !important;
+    font-size: inherit !important;
+
+    td,
+    th {
+      font-size: inherit !important;
+    }
+  }
+}
