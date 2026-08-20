@@ -26,7 +26,7 @@ author:
   avatar           : "images/photo.png"
   name             : "Xinlin Geng"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer at UESTC. Research on silicon‑based RF, mmW, THz on‑chip clock generation and distribution, especially for multi-phase ultra‑low jitter and spur clock. Publication includes IEEE ISSCC, JSSC, CICC, and TMTT."
+  bio              : "Lecturer at UESTC. Research on silicon‑based RF, mmW, THz on‑chip clock generation and distribution, especially for multi-phase ultra‑low jitter and spur clocking. Publication includes IEEE ISSCC, JSSC, CICC, and TMTT."
   location         : "Chengdu, Sichuan, China"
   employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
