@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Academic Profile"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Xinlin Geng"
 description              : &description "Xinlin Geng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "images/photo.png"
   name             : "Xinlin Geng"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer at UESTC. Research on silicon‑based RF, mmW, THz on‑chip clock generation and distribution, especially for multi-phase ultra‑low jitter and spur clocking. Publication includes IEEE ISSCC, JSSC, CICC, and TMTT."
+  bio              : "mmW/THz Clocking Circuits Researcher"
   location         : "Chengdu, Sichuan, China"
   employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=xinlin%20geng"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8538-348X"# URL
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
