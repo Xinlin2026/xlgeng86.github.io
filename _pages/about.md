@@ -12,6 +12,9 @@ Welcome! I am a scientific researcher with the [School of Integrated Circuit Sci
 Experience
 ------
 2026.3 ~ now      Lecturer          UESTC
+
 2024.7 ~ 2026.2   Senior Engineer   Sanechips
-2018.9 ~ 2024.6   Ph.D              UESTC  
+
+2018.9 ~ 2024.6   Ph.D              UESTC
+
 2014.9 ~ 2018.6   B.E.              UESTC 
