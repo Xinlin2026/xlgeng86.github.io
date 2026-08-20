@@ -9,11 +9,11 @@ redirect_from:
   - /home.html/
 ---
 
-Welcome! I am a scientific researcher with the [School of Integrated Circuit Science and Engineering](https://icse.uestc.edu.cn) at [UESTC](https://www.uestc.edu.cn). My research fields focus on silicon‑based RF, mmW and THz on‑chip clock generation and distribution, especially for multi-phase ultra‑low jitter and spur clocking. My research works have been published in ***IEEE ISSCC, JSSC, CICC, TMTT*** and so on.
+Welcome! I am a scientific researcher with the [School of Integrated Circuit Science and Engineering](https://icse.uestc.edu.cn) at [UESTC](https://www.uestc.edu.cn). My research field focuses on silicon‑based RF, mmW and THz on‑chip clock generation and distribution, especially for multi-phase ultra‑low jitter and spur clocking. Recent research works have been published in ***IEEE ISSCC, JSSC, CICC, TMTT*** and so on.
 
 Experience
-------
-<table style="font-size:1rem;font-family:inherit;width:100%;">
+======
+<table style="font-size:0.9rem;font-family:inherit;width:100%;">
 <thead>
   <tr>
     <th>Time</th>
