@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a scientific researcher with the [School of Integrated Circuit Science and Engineering](https://icse.uestc.edu.cn) at [UESTC](https://www.uestc.edu.cn). My research fields focus on silicon‑based RF, mmW and THz on‑chip clock generation and distribution, especially for multi-phase ultra‑low jitter and spur clocking. Publications have included ***IEEE ISSCC, JSSC, CICC, and TMTT***.
+Welcome! I am a scientific researcher with the [School of Integrated Circuit Science and Engineering](https://icse.uestc.edu.cn) at [UESTC](https://www.uestc.edu.cn). My research fields focus on silicon‑based RF, mmW and THz on‑chip clock generation and distribution, especially for multi-phase ultra‑low jitter and spur clocking. My research works have been published in ***IEEE ISSCC, JSSC, CICC, TMTT*** and so on.
 
 Experience
 ------
