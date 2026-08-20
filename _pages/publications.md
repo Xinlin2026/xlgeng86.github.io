@@ -3,8 +3,6 @@ permalink: /publications/
 layout: single
 title: "Publications"
 author_profile: true
-header: 
-  title: false
 ---
 
 {% if site.author.googlescholar %}
@@ -14,18 +12,14 @@ header:
 
 Journal Articles
 ------
-1. sss
-
-1. xxx
-
-1. ccc
+1. sss  
+1. xxx  
+1. ccc  
 
 
 Conference Papers
 ------
-1.xx
-
-1.cc
-
-1.mm
+1. xx  
+1. cc  
+1. mm  
 
