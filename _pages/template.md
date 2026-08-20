@@ -1,5 +1,5 @@
 ---
-permalink: /template
+permalink: /template/
 title: "About me"
 author_profile: true
 redirect_from: 
