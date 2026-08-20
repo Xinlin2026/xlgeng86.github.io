@@ -11,13 +11,18 @@ author_profile: true
 
 Journal Articles
 ------
-1.sss
-1.xxx
-1.ccc
+1. sss
+
+1. xxx
+
+1. ccc
+
 
 Conference Papers
 ------
 1.xx
+
 1.cc
+
 1.mm
 
