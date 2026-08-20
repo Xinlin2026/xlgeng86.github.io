@@ -19,7 +19,7 @@ Journal Articles
 
 Conference Papers
 ------
-1. xx  
-1. cc  
-1. mm  
+1. ***X. Geng***, et al., A 25.8GHz Integer-N PLL With Time-Amplifying Phase-Frequency Detector Achieving 60fsrms Jitter, -252.8dB FoMJ, and Robust Lock Acquisition Performance, 2022 IEEE International Solid-State Circuits Conference (***ISSCC***), San Francisco, CA, USA, 2022. [Paper Link](https://ieeexplore.ieee.org/document/9731578)<br>
+1. cc<br>
+1. mm<br>
 
