@@ -1,7 +1,10 @@
 ---
 permalink: /publications/
 layout: single
+title: "Publications"
 author_profile: true
+header: 
+  title: false
 ---
 
 {% if site.author.googlescholar %}
