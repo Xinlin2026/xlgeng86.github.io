@@ -2,9 +2,6 @@
 permalink: /template/
 title: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Welcome! I am a scientific researcher with UESTC. My research fields focus on silicon‑based RF, mmW and THz on‑chip clock generation and distribution, especially for multi-phase ultra‑low jitter and spur clocking. Publication includes IEEE ISSCC, JSSC, CICC, and TMTT have been achieved!
