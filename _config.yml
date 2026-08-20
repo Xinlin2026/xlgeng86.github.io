@@ -23,7 +23,7 @@ repository               : "xlgeng86/xlgeng86.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/photo.png"
+  avatar           : "photo.png"
   name             : "Xinlin Geng"
   pronouns         : # example: "she/her"  
   bio              : "mmW/THz Clocking Circuits Researcher"
